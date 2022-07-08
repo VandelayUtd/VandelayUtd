@@ -2,7 +2,7 @@
 I'm a Full Stack developer based out of Brooklyn, New York. Proficient in React, JavaScript, and Ruby on Rails with a zeal for creative problem solving. A problem is just 
 progress that hasn't happened yet.
 <br><br>
-I love to build things or break things and make them better. I have over a decade of experience in the music industry and when I'm not writing code I spend a lot of time working on vintage 50cc motorcycles, songs, cycling or hiking, and I'm self proclaimed film noir nerd. I approach building out an application with the same fervor and tenacity of building out a song, band, album, two stroke engine or following a trail of errors to fix a bug like Phillip Marlowe.
+I build things or break things and make them better. I have over a decade of experience in the music industry and when I'm not writing code I spend a lot of time working on vintage 50cc 2 stroke mopeds, songs, cycling or hiking, and a junior film nerd. I approach building out an application with the same fervor and tenacity of building out a song, band, album, two stroke engine or following a trail of errors to fix a bug.
 <br><br>
 
 Code should be easily understood, efficient, fast, and designed with future modifications in mind.
